@@ -23,8 +23,8 @@ I completed this challenge using Flexboxes and Media Queries.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution FrontendMentor URL](https://www.frontendmentor.io/solutions/social-profile-card-made-with-css-html-flexboxes-and-media-queries-SybLKqZB5)
+- Live Site URL: [Github live site](https://maxscarp.github.io/ProfileCard/)
 
 ## My process
 I wrote html watching the design files provided trying to estimate how to divide elements for using flexboxes efficiently.
